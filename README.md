@@ -32,6 +32,7 @@ During the data collection process, I used the following tools:<br>
   <img src="https://github.com/user-attachments/assets/9c515596-393e-4a28-9473-b307793a656f" width="300"/>
 </div>
 <br>
+
 **Notebook and pen**: used to manually record measurement data and preliminarily mark the data measurement points.<br>
 **Spreadsheet tool (Google Sheets)**: used to organize and store data.<br>
 
