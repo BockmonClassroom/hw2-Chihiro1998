@@ -21,6 +21,7 @@ I chose to collect data from potted plants in the coffee shop where I used to st
   <img src="https://github.com/user-attachments/assets/dacd7191-11fa-4afb-a932-d659daed120c" width="200"/>
 </div>
 <br>
+
 ### 2.What instrument did you use to collect data with? 
 During the data collection process, I used the following tools:<br>
 Ruler: A regular ruler. If there is a caliper, the data will be more accurate, but I didn’t buy it.<br>
