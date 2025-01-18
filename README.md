@@ -26,6 +26,12 @@ I chose to collect data from potted plants in the coffee shop where I used to st
 During the data collection process, I used the following tools:<br>
 **Ruler**: A regular ruler. If there is a caliper, the data will be more accurate, but I didn’t buy it.<br>
 **Mobile application (PictureThis and Measure)**: used to identify the species and name of plants and to preliminarily measure the length and width of plant leaves.<br>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/1b438b7f-240c-448e-9e45-ecb09dd20d07" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dee8a8fa-01a3-4309-b55b-9fd20c0e7171" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9c515596-393e-4a28-9473-b307793a656f" width="200"/>
+</div>
+<br>
 **Notebook and pen**: used to manually record measurement data and preliminarily mark the data measurement points.<br>
 **Spreadsheet tool (Google Sheets)**: used to organize and store data.<br>
 
