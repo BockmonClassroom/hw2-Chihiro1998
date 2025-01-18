@@ -16,9 +16,9 @@ I chose to collect data from potted plants in the coffee shop where I used to st
 **Step 3** Record the measurements and the plant name in a notebook and then transcribe them into a spreadsheet.<br>
 **Step 4** Repeat the above steps until I have collected data for all three plants.<br>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/52a8347f-8416-42ca-9955-2a0945a8082e" width="200"/>
-  <img src="https://github.com/user-attachments/assets/ce9562f4-5efe-4528-bc02-c2e65fd45192" width="200"/>
-  <img src="https://github.com/user-attachments/assets/dacd7191-11fa-4afb-a932-d659daed120c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/52a8347f-8416-42ca-9955-2a0945a8082e" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ce9562f4-5efe-4528-bc02-c2e65fd45192" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dacd7191-11fa-4afb-a932-d659daed120c" width="300"/>
 </div>
 <br>
 
@@ -27,9 +27,9 @@ During the data collection process, I used the following tools:<br>
 **Ruler**: A regular ruler. If there is a caliper, the data will be more accurate, but I didn’t buy it.<br>
 **Mobile application (PictureThis and Measure)**: used to identify the species and name of plants and to preliminarily measure the length and width of plant leaves.<br>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/1b438b7f-240c-448e-9e45-ecb09dd20d07" width="200"/>
-  <img src="https://github.com/user-attachments/assets/dee8a8fa-01a3-4309-b55b-9fd20c0e7171" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9c515596-393e-4a28-9473-b307793a656f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1b438b7f-240c-448e-9e45-ecb09dd20d07" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dee8a8fa-01a3-4309-b55b-9fd20c0e7171" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9c515596-393e-4a28-9473-b307793a656f" width="300"/>
 </div>
 <br>
 **Notebook and pen**: used to manually record measurement data and preliminarily mark the data measurement points.<br>
