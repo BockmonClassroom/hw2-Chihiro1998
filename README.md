@@ -24,10 +24,10 @@ I chose to collect data from potted plants in the coffee shop where I used to st
 
 ### 2.What instrument did you use to collect data with? 
 During the data collection process, I used the following tools:<br>
-Ruler: A regular ruler. If there is a caliper, the data will be more accurate, but I didn’t buy it.<br>
-Mobile application (PictureThis and Measure): used to identify the species and name of plants and to preliminarily measure the length and width of plant leaves.<br>
-Notebook and pen: used to manually record measurement data and preliminarily mark the data measurement points.<br>
-Spreadsheet tool (Google Sheets): used to organize and store data.<br>
+**Ruler**: A regular ruler. If there is a caliper, the data will be more accurate, but I didn’t buy it.<br>
+**Mobile application (PictureThis and Measure)**: used to identify the species and name of plants and to preliminarily measure the length and width of plant leaves.<br>
+**Notebook and pen**: used to manually record measurement data and preliminarily mark the data measurement points.<br>
+**Spreadsheet tool (Google Sheets)**: used to organize and store data.<br>
 
 
 
