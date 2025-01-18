@@ -16,9 +16,9 @@ I chose to collect data from potted plants in the coffee shop where I used to st
 **Step 3** Record the measurements and the plant name in a notebook and then transcribe them into a spreadsheet.<br>
 **Step 4** Repeat the above steps until I have collected data for all three plants.<br>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/52a8347f-8416-42ca-9955-2a0945a8082e" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ce9562f4-5efe-4528-bc02-c2e65fd45192" width="300"/>
-  <img src="https://github.com/user-attachments/assets/dacd7191-11fa-4afb-a932-d659daed120c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/52a8347f-8416-42ca-9955-2a0945a8082e" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ce9562f4-5efe-4528-bc02-c2e65fd45192" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dacd7191-11fa-4afb-a932-d659daed120c" width="200"/>
 </div>
 <br>
 
