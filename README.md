@@ -55,10 +55,6 @@ During the data collection process, I encountered the following issues:<br>
 **Data precision and accuracy issues**: It is difficult to determine the widest point of the leaf and which two points are the longest value. For this, I marked the two points of measurement on a leaf with a water-based pen and measured multiple times to find the average value to determine that the data is a more accurate data.<br>
 
 ## Analysis/Visualization
-### 1. Graph histograms of your data with appropriate labels. 
-### 2. Graph boxplots of your data with appropriate labels. 
-### 3. Graph a scatter plot of your entire data set with each subset different color and a ledger. 
-### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
-### 5. What can you infer with data and graphs that you have? 
+### What can you infer with data and graphs that you have? 
 
 
