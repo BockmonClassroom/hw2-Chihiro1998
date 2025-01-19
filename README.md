@@ -83,7 +83,15 @@ Zamioculcas zamiifolia: The histogram shows a concentrated distribution around 3
 Snake Plant: The data is concentrated around 6 cm. The mean 6.04 and median 6.20suggest the distribution is slightly skewed toward larger values. The small standard deviation 0.49indicates low dispersion.<br>
 Bunny Ears Cactus: The histogram shows a wider spread of data, with the most frequent values near 3-4 cm. The mean 3.85 is larger than the median 3.20, indicating a right-skewed distribution. The standard deviation 1.46 and variance 2.12 indicate high variability compared to the other plants.<br>
 All: The histogram shows a bimodal distribution caused by the separation of Snake Plant (higher leaf width) and the other two plants (lower leaf width). The large variance 2.41 and standard deviation 1.55 reflect this broad spread.<br>
+**Leaf Length**:<br>
+Zamioculcas zamiifolia: The histogram indicates data concentrated between 7-8 cm, which matches the mean 7.35 and median 7.50. The variance 0.56 and standard deviation 0.75 confirm a narrow distribution.<br>
+Snake Plant: The data ranges widely from 14 to 26 cm. The mean 19.39 and median 18.25 indicate a slight left skew. The high variance 16.25 and standard deviation 4.03 reflect the data's spread.<br>
+Bunny Ears Cactus: The histogram shows peaks around 6-8 cm. The mean 7.21 and median 6.80 are close, suggesting symmetry, but the higher variance 7.57 and standard deviation 2.75 suggest a wider spread.<br>
+All: The histogram shows a multimodal distribution, reflecting the distinct characteristics of each plant. The large variance 41.01 and standard deviation 6.40 reflect the data's diversity.<br>
 
+
+
+**statistics:**
 <blockquote>
   <strong>Statistics for Leaf Width:</strong><br>
   <blockquote>
