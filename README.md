@@ -76,25 +76,52 @@ Introduction：All the graphs' original format in the Graph folder.<br>
 <br>
 
 ### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
+
 #### 4.1 Histograms
-Histograms show the frequency distribution of leaf width and leaf length for all plants and each plant species.<br>
+Histograms show the frequency distribution of leaf width and leaf length for all plants and each plant species.
+
 **Leaf Width**:<br>
-Zamioculcas zamiifolia: The histogram shows a concentrated distribution around 3 cm. This aligns with the mean 3.10and the median 3.15, as they are close, indicating symmetry in the distribution. The standard deviation 0.48and variance 0.23suggest that the data points are tightly clustered.<br>
-Snake Plant: The data is concentrated around 6 cm. The mean 6.04 and median 6.20suggest the distribution is slightly skewed toward larger values. The small standard deviation 0.49indicates low dispersion.<br>
-Bunny Ears Cactus: The histogram shows a wider spread of data, with the most frequent values near 3-4 cm. The mean 3.85 is larger than the median 3.20, indicating a right-skewed distribution. The standard deviation 1.46 and variance 2.12 indicate high variability compared to the other plants.<br>
-All: The histogram shows a bimodal distribution caused by the separation of Snake Plant (higher leaf width) and the other two plants (lower leaf width). The large variance 2.41 and standard deviation 1.55 reflect this broad spread.<br>
+- **Zamioculcas zamiifolia**:  
+  Most leaf widths are around **3 cm**, which matches the **mean (3.10)** and **median (3.15)**. The data is very consistent, as shown by the **small standard deviation (0.48)** and **variance (0.23)**.  
+- **Snake Plant**:  
+  The majority of leaf widths are near **6 cm**, with a **mean of 6.04** and **median of 6.20**. The distribution is slightly skewed toward larger values, but overall the data is consistent, with a **standard deviation of 0.49**.  
+- **Bunny Ears Cactus**:  
+  The data is more spread out, with leaf widths mostly between **3-4 cm**. The **mean (3.85)** is higher than the **median (3.20)**, indicating some larger leaf widths pulling the average up. The **standard deviation (1.46)** and **variance (2.12)** are higher, reflecting greater variability.  
+- **All Plants**:  
+  The histogram shows two peaks, one near **3 cm** (for Zamioculcas and Bunny Ears) and another near **6 cm** (for Snake Plant). The large **variance (2.41)** and **standard deviation (1.55)** reflect the broad spread of data across different species.
+
 **Leaf Length**:<br>
-Zamioculcas zamiifolia: The histogram indicates data concentrated between 7-8 cm, which matches the mean 7.35 and median 7.50. The variance 0.56 and standard deviation 0.75 confirm a narrow distribution.<br>
-Snake Plant: The data ranges widely from 14 to 26 cm. The mean 19.39 and median 18.25 indicate a slight left skew. The high variance 16.25 and standard deviation 4.03 reflect the data's spread.<br>
-Bunny Ears Cactus: The histogram shows peaks around 6-8 cm. The mean 7.21 and median 6.80 are close, suggesting symmetry, but the higher variance 7.57 and standard deviation 2.75 suggest a wider spread.<br>
-All: The histogram shows a multimodal distribution, reflecting the distinct characteristics of each plant. The large variance 41.01 and standard deviation 6.40 reflect the data's diversity.<br>
+- **Zamioculcas zamiifolia**:  
+  Most leaf lengths fall between **7-8 cm**, with a **mean of 7.35** and **median of 7.50**, showing a symmetric and consistent distribution. The **standard deviation (0.75)** is small, indicating little variation.  
+- **Snake Plant**:  
+  Leaf lengths range from **14 cm to 26 cm**, with a **mean of 19.39** and **median of 18.25**. The data shows a wide spread, with a **standard deviation of 4.03** and **variance of 16.25**.  
+- **Bunny Ears Cactus**:  
+  Most leaf lengths are between **6-8 cm**, with a **mean of 7.21** and **median of 6.80**. While the data is generally consistent, there are some longer leaves that increase the spread, as reflected in the **standard deviation (2.75)** and **variance (7.57)**.  
+- **All Plants**:  
+  The data shows a wide range of leaf lengths due to the differences between plant species. The **variance (41.01)** and **standard deviation (6.40)** are much higher, reflecting the diversity in leaf length.
+
 #### 4.2 Boxplots
-Box plots summarize the distribution of leaf width and leaf length for all plants and each species, highlighting the central tendency, spread, and outliers.<br>
-**Leaf Width:** <br>
-Zamioculcas zamiifolia: The box is narrow, indicating concentrated data. The median is near the center, aligning with the mean 3.10. The range are short, confirming the small variance 0.23 and standard deviation 0.48.<br>
-Snake Plant: The boxplot shows a tight distribution around 6 cm. The median is slightly above the mean, consistent with the data's slight right skew.<br>
-Bunny Ears Cactus: The box is wider, with a longer whisker on the right side, reflecting the higher variance 2.12 and a few outliers. The median 3.20 cm is smaller than the mean 3.85 cm, indicating right skewness.<br>
-All Plants: The overall boxplot shows a large spread, with multiple modes corresponding to each plant's characteristics.<br>
+Box plots summarize the distribution of leaf width and leaf length for all plants and each species. They show the spread of the data, the middle range, and any unusual values.
+
+**Leaf Width**:<br>
+- **Zamioculcas zamiifolia**:  
+  The box is narrow, showing that leaf widths are very consistent. The **median (3.15)** is close to the **mean (3.10)**, and the data has a small range.  
+- **Snake Plant**:  
+  The boxplot shows a tight distribution near **6 cm**, with the **median slightly above the mean (6.20 vs. 6.04)**.  
+- **Bunny Ears Cactus**:  
+  The box is wider, indicating greater variation in leaf widths. Some very wide leaves extend the range. The **median (3.20)** is smaller than the **mean (3.85)**, showing that larger values affect the average.  
+- **All Plants**:  
+  The overall boxplot reflects the combined data of all plants, showing that the spread is larger due to the differences between species.
+
+**Leaf Length**:<br>
+- **Zamioculcas zamiifolia**:  
+  The box is narrow, and the data is centered around the **median (7.50)**, indicating that most leaf lengths are very similar.  
+- **Snake Plant**:  
+  The box is much wider, showing a greater range of leaf lengths. Some particularly long leaves extend the range.  
+- **Bunny Ears Cactus**:  
+  The box is moderate in width, with most values between **6-8 cm**.  
+- **All Plants**:  
+  The combined boxplot shows the wide range of leaf lengths across all plants, with notable differences between species.
 
 
 **statistics:**
