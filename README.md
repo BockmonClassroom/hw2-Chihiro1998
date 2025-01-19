@@ -123,6 +123,18 @@ Box plots summarize the distribution of leaf width and leaf length for all plant
 - **All Plants**:  
   The combined boxplot shows the wide range of leaf lengths across all plants, with notable differences between species.
 
+#### 4.3 Scatter Plot
+The scatter plot illustrates the relationship between leaf width (x-axis) and leaf length (y-axis) for all plants, with each species differentiated by color.It effectively separates the three species based on their leaf dimensions. While Snake Plant is clearly distinct, there is some overlap between Zamioculcas zamiifolia and Bunny Ears Cactus.  
+
+- **Zamioculcas zamiifolia**:<br>
+The points are tightly grouped in the lower left of the plot, showing that the leaves are both narrow and short. This clustering reflects the low variance and standard deviation in both width and length. The consistent size makes this plant easy to differentiate.  
+
+- **Snake Plant**:<br>
+The points are distributed in the upper right, representing larger leaves. The spread of these points matches the higher variance and standard deviation seen in the data. This species has the largest and most variable leaves, making it stand out compared to the others.  
+
+- **Bunny Ears Cactus**:<br>
+The points are scattered in the middle of the plot, between Zamioculcas zamiifolia and Snake Plant. While some points overlap with Zamioculcas, there are also wider and longer leaves. This species has more variability than Zamioculcas but less than Snake Plant.  
+
 
 **statistics:**
 <blockquote>
