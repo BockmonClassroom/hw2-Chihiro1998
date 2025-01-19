@@ -57,7 +57,7 @@ During the data collection process, I encountered the following issues:<br>
 ## Analysis/Visualization
 ### 1. Graph histograms of your data with appropriate labels. 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/187a16b9-522f-4dd6-9880-753f8e9a9eea" width="500"/>
+  <img src="https://github.com/user-attachments/assets/187a16b9-522f-4dd6-9880-753f8e9a9eea" width="800"/>
 </div>
 <br>
 
