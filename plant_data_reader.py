@@ -163,6 +163,7 @@ plt.show()
 
 # 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
 
+# Get unique plant names
 plants = data['plant_name'].unique()
 
 # Calculate the leaf_width statistic for each plant
@@ -170,16 +171,16 @@ print("Statistics for Leaf Width:")
 for plant in plants:
     subset = data[data['plant_name'] == plant]
     mean_width = subset['leaf_width'].mean()  # Mean
-    variance_width = subset['leaf_width'].var()  # variance
-    median_width = subset['leaf_width'].median()  #  median
-    std_width = subset['leaf_width'].std()  # standard deviation
+    variance_width = subset['leaf_width'].var()  # Variance
+    median_width = subset['leaf_width'].median()  # Median
+    std_width = subset['leaf_width'].std()  # Standard Deviation
     print(f"{plant}:")
     print(f"  Mean: {mean_width:.2f}")
     print(f"  Variance: {variance_width:.2f}")
     print(f"  Median: {median_width:.2f}")
     print(f"  Standard Deviation: {std_width:.2f}")
 
-# Calculate the leaf_width statistic for all
+# Calculate the leaf_width statistic for all plants combined
 mean_width_all = data['leaf_width'].mean()
 variance_width_all = data['leaf_width'].var()
 median_width_all = data['leaf_width'].median()
@@ -195,15 +196,16 @@ print("\nStatistics for Leaf Length:")
 for plant in plants:
     subset = data[data['plant_name'] == plant]
     mean_length = subset['leaf_length'].mean()  # Mean
-    variance_length = subset['leaf_length'].var()  # variance
-    median_length = subset['leaf_length'].median()  #  median
-    std_length = subset['leaf_length'].std()  # standard deviation
+    variance_length = subset['leaf_length'].var()  # Variance
+    median_length = subset['leaf_length'].median()  # Median
+    std_length = subset['leaf_length'].std()  # Standard Deviation
+    print(f"{plant}:")
     print(f"  Mean: {mean_length:.2f}")
     print(f"  Variance: {variance_length:.2f}")
     print(f"  Median: {median_length:.2f}")
     print(f"  Standard Deviation: {std_length:.2f}")
 
-# Calculate the leaf_length statistic for all
+# Calculate the leaf_length statistic for all plants combined
 mean_length_all = data['leaf_length'].mean()
 variance_length_all = data['leaf_length'].var()
 median_length_all = data['leaf_length'].median()
