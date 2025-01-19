@@ -212,6 +212,11 @@ The points are scattered in the middle of the plot, between Zamioculcas zamiifol
   </blockquote>
 </blockquote>
 
+### 5. What can you infer with data and graphs that you have? 
+**The leaf size of plants:** <br>
+- Zamioculcas zamiifolia has small and very uniform leaves, with very concentrated data and small variance in both width and length. This indicates that the leaf size of this plant is relatively fixed and does not vary much.<br>
+- Snake Plant has the largest leaves, with the largest range of variation in both width and length, and the data is very widely distributed. The leaf size of this plant varies greatly, and some leaves can be very long and wide.<br>
+- Bunny Ears Cactus has a leaf size in between the two, with both width and length falling into the medium range, but the variation is also greater than that of Zamioculcas, and some leaves are narrow and long, which makes it between the first two in terms of characteristics.<br>
 
 
 
