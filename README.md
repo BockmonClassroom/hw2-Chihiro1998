@@ -76,12 +76,12 @@ Introduction：All the graphs' original format in the Graph folder.<br>
 <br>
 
 ### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
-**Statistics for Leaf Width**:<br>
- **Zamioculcas zamiifolia**:<br>
-   Mean: 3.10<br>
-   Variance: 0.23<br>
-   Median: 3.15<br>
-   Standard Deviation: 0.48<br>
+   **Statistics for Leaf Width**:<br>
+      **Zamioculcas zamiifolia**:<br>
+          Mean: 3.10<br>
+          Variance: 0.23<br>
+          Median: 3.15<br>
+          Standard Deviation: 0.48<br>
 Snake Plant:<br>
   Mean: 6.04<br>
   Variance: 0.24<br>
