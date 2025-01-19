@@ -68,6 +68,11 @@ During the data collection process, I encountered the following issues:<br>
 </div>
 <br>
 
+### 3. Graph a scatter plot of your entire data set with each subset different color and a ledger.
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/5f16303a-6a2f-401e-b4b9-dc63f29e4430" width="800"/>
+</div>
+<br>
 
 
 
