@@ -82,44 +82,44 @@ Histograms show the frequency distribution of leaf width and leaf length for all
 
 **Leaf Width**:<br>
 - **Zamioculcas zamiifolia**:  
-  Most leaf widths are around **3 cm**, which matches the **mean (3.10)** and **median (3.15)**. The data is very consistent, as shown by the **small standard deviation (0.48)** and **variance (0.23)**.  
+  Most leaf widths are around 3 cm, which matches the mean 3.10 and median 3.15. The data is very consistent, as shown by the small standard deviation 0.48 and variance 0.23.  
 - **Snake Plant**:  
-  The majority of leaf widths are near **6 cm**, with a **mean of 6.04** and **median of 6.20**. The distribution is slightly skewed toward larger values, but overall the data is consistent, with a **standard deviation of 0.49**.  
+  The majority of leaf widths are near 6 cm, with a mean of 6.04 and median of 6.20. The distribution is slightly skewed toward larger values, but overall the data is consistent, with a standard deviation of 0.49.  
 - **Bunny Ears Cactus**:  
-  The data is more spread out, with leaf widths mostly between **3-4 cm**. The **mean (3.85)** is higher than the **median (3.20)**, indicating some larger leaf widths pulling the average up. The **standard deviation (1.46)** and **variance (2.12)** are higher, reflecting greater variability.  
+  The data is more spread out, with leaf widths mostly between 3 and 4 cm. The mean is 3.85, higher than the median 3.20, indicating some larger leaf widths pulling the average up. The standard deviation 1.46 and variance 2.12 are higher, reflecting greater variability.  
 - **All Plants**:  
-  The histogram shows two peaks, one near **3 cm** (for Zamioculcas and Bunny Ears) and another near **6 cm** (for Snake Plant). The large **variance (2.41)** and **standard deviation (1.55)** reflect the broad spread of data across different species.
+  The histogram shows two peaks, one near 3 cm (for Zamioculcas and Bunny Ears) and another near 6 cm (for Snake Plant). The large variance 2.41 and standard deviation 1.55 reflect the broad spread of data across different species.
 
 **Leaf Length**:<br>
 - **Zamioculcas zamiifolia**:  
-  Most leaf lengths fall between **7-8 cm**, with a **mean of 7.35** and **median of 7.50**, showing a symmetric and consistent distribution. The **standard deviation (0.75)** is small, indicating little variation.  
+  Most leaf lengths fall between 7 and 8 cm, with a mean of 7.35 and median of 7.50. This shows a symmetric and consistent distribution. The standard deviation 0.75 is small, indicating little variation.  
 - **Snake Plant**:  
-  Leaf lengths range from **14 cm to 26 cm**, with a **mean of 19.39** and **median of 18.25**. The data shows a wide spread, with a **standard deviation of 4.03** and **variance of 16.25**.  
+  Leaf lengths range from 14 to 26 cm, with a mean of 19.39 and median of 18.25. The data shows a wide spread, with a standard deviation of 4.03 and variance of 16.25.  
 - **Bunny Ears Cactus**:  
-  Most leaf lengths are between **6-8 cm**, with a **mean of 7.21** and **median of 6.80**. While the data is generally consistent, there are some longer leaves that increase the spread, as reflected in the **standard deviation (2.75)** and **variance (7.57)**.  
+  Most leaf lengths are between 6 and 8 cm, with a mean of 7.21 and median of 6.80. While the data is generally consistent, there are some longer leaves that increase the spread, as reflected in the standard deviation 2.75 and variance 7.57.  
 - **All Plants**:  
-  The data shows a wide range of leaf lengths due to the differences between plant species. The **variance (41.01)** and **standard deviation (6.40)** are much higher, reflecting the diversity in leaf length.
+  The data shows a wide range of leaf lengths due to the differences between plant species. The variance 41.01 and standard deviation 6.40 are much higher, reflecting the diversity in leaf length.
 
 #### 4.2 Boxplots
 Box plots summarize the distribution of leaf width and leaf length for all plants and each species. They show the spread of the data, the middle range, and any unusual values.
 
-**Leaf Width**:<br>
+**Leaf Width:** <br>
 - **Zamioculcas zamiifolia**:  
-  The box is narrow, showing that leaf widths are very consistent. The **median (3.15)** is close to the **mean (3.10)**, and the data has a small range.  
+  The box is narrow, showing that leaf widths are very consistent. The median is 3.15, close to the mean 3.10, and the data has a small range.  
 - **Snake Plant**:  
-  The boxplot shows a tight distribution near **6 cm**, with the **median slightly above the mean (6.20 vs. 6.04)**.  
+  The boxplot shows a tight distribution near 6 cm, with the median slightly above the mean, 6.20 compared to 6.04.  
 - **Bunny Ears Cactus**:  
-  The box is wider, indicating greater variation in leaf widths. Some very wide leaves extend the range. The **median (3.20)** is smaller than the **mean (3.85)**, showing that larger values affect the average.  
+  The box is wider, indicating greater variation in leaf widths. Some very wide leaves extend the range. The median is 3.20, smaller than the mean 3.85, showing that larger values affect the average.  
 - **All Plants**:  
   The overall boxplot reflects the combined data of all plants, showing that the spread is larger due to the differences between species.
 
-**Leaf Length**:<br>
+**Leaf Length:** <br>
 - **Zamioculcas zamiifolia**:  
-  The box is narrow, and the data is centered around the **median (7.50)**, indicating that most leaf lengths are very similar.  
+  The box is narrow, and the data is centered around the median 7.50, indicating that most leaf lengths are very similar.  
 - **Snake Plant**:  
   The box is much wider, showing a greater range of leaf lengths. Some particularly long leaves extend the range.  
 - **Bunny Ears Cactus**:  
-  The box is moderate in width, with most values between **6-8 cm**.  
+  The box is moderate in width, with most values between 6 and 8 cm.  
 - **All Plants**:  
   The combined boxplot shows the wide range of leaf lengths across all plants, with notable differences between species.
 
