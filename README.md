@@ -4,8 +4,8 @@ DS5110
 Homework 2 - Data Collection  
 Due 1/24/2025
 
-Author：Yuchen(Oliva) Kuang<br>
-Detail: Question answer for DS5110 HW2
+**Author**：Yuchen(Oliva) Kuang<br>
+**Detail**: Question answer for DS5110 HW2<br>
 
 ## Date Collections
 ### 1.Explain your data collection process
@@ -55,6 +55,73 @@ During the data collection process, I encountered the following issues:<br>
 **Data precision and accuracy issues**: It is difficult to determine the widest point of the leaf and which two points are the longest value. For this, I marked the two points of measurement on a leaf with a water-based pen and measured multiple times to find the average value to determine that the data is a more accurate data.<br>
 
 ## Analysis/Visualization
-### What can you infer with data and graphs that you have? 
+Introduction：All the graphs' original format in the Graph folder.<br>
+### 1. Graph histograms of your data with appropriate labels. 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/187a16b9-522f-4dd6-9880-753f8e9a9eea" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3a7119d4-9440-43a9-83f2-4a0773968f86" width="800"/>
+</div>
+<br>
+
+### 2. Graph boxplots of your data with appropriate labels. 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/1f8c193c-004d-4c2c-ac77-048ff36f9e17" width="800"/>
+</div>
+<br>
+
+### 3. Graph a scatter plot of your entire data set with each subset different color and a ledger.
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/5f16303a-6a2f-401e-b4b9-dc63f29e4430" width="800"/>
+</div>
+<br>
+
+### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
+Statistics for Leaf Width:<br>
+Zamioculcas zamiifolia:<br>
+  Mean: 3.10<br>
+  Variance: 0.23<br>
+  Median: 3.15<br>
+  Standard Deviation: 0.48<br>
+Snake Plant:<br>
+  Mean: 6.04<br>
+  Variance: 0.24<br>
+  Median: 6.20<br>
+  Standard Deviation: 0.49<br>
+Bunny Ears Cactus:<br>
+  Mean: 3.85<br>
+  Variance: 2.12<br>
+  Median: 3.20<br>
+  Standard Deviation: 1.46<br>
+
+All Plants (Leaf Width):<br>
+  Mean: 4.33<br>
+  Variance: 2.41<br>
+  Median: 3.80<br>
+  Standard Deviation: 1.55<br>
+
+Statistics for Leaf Length:<br>
+Zamioculcas zamiifolia:<br>
+  Mean: 7.35<br>
+  Variance: 0.56<br>
+  Median: 7.50<br>
+  Standard Deviation: 0.75<br>
+Snake Plant:<br>
+  Mean: 19.39<br>
+  Variance: 16.25<br>
+  Median: 18.25<br>
+  Standard Deviation: 4.03<br>
+Bunny Ears Cactus:<br>
+  Mean: 7.21<br>
+  Variance: 7.57<br>
+  Median: 6.80<br>
+  Standard Deviation: 2.75<br>
+
+All Plants (Leaf Length):<br>
+  Mean: 11.31<br>
+  Variance: 41.01<br>
+  Median: 8.20<br>
+  Standard Deviation: 6.40<br>
+
+
 
 
