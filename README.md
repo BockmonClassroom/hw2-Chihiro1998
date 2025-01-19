@@ -55,6 +55,7 @@ During the data collection process, I encountered the following issues:<br>
 **Data precision and accuracy issues**: It is difficult to determine the widest point of the leaf and which two points are the longest value. For this, I marked the two points of measurement on a leaf with a water-based pen and measured multiple times to find the average value to determine that the data is a more accurate data.<br>
 
 ## Analysis/Visualization
+Introduction：All the graphs' original format in the Graph folder.<br>
 ### 1. Graph histograms of your data with appropriate labels. 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/187a16b9-522f-4dd6-9880-753f8e9a9eea" width="800"/>
