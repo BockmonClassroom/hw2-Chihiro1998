@@ -78,7 +78,7 @@ Introduction：All the graphs' original format in the Graph folder.<br>
 ### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
 #### 4.1 Histograms
 Histograms show the frequency distribution of leaf width and leaf length for all plants and each plant species.<br>
-Leaf Width:<br>
+**Leaf Width**:<br>
 Zamioculcas zamiifolia: the histogram shows a concentrated distribution around 3 cm. This aligns with the mean 3.10and the median 3.15, as they are close, indicating symmetry in the distribution. The standard deviation 0.48and variance 0.23suggest that the data points are tightly clustered.<br>
 Snake Plant:the data is concentrated around 6 cm. The mean 6.04 and median 6.20suggest the distribution is slightly skewed toward larger values. The small standard deviation 0.49indicates low dispersion.<br>
 Bunny Ears Cactus: the histogram shows a wider spread of data, with the most frequent values near 3-4 cm. The mean 3.85 is larger than the median 3.20, indicating a right-skewed distribution. The standard deviation 1.46 and variance 2.12indicate high variability compared to the other plants.<br>
