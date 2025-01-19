@@ -75,6 +75,52 @@ Introduction：All the graphs' original format in the Graph folder.<br>
 </div>
 <br>
 
+### 4. Explain each graph in terms of variance, mean, median, and standard deviation. 
+Statistics for Leaf Width:<br>
+Zamioculcas zamiifolia:<br>
+  Mean: 3.10<br>
+  Variance: 0.23<br>
+  Median: 3.15<br>
+  Standard Deviation: 0.48<br>
+Snake Plant:<br>
+  Mean: 6.04<br>
+  Variance: 0.24<br>
+  Median: 6.20<br>
+  Standard Deviation: 0.49<br>
+Bunny Ears Cactus:<br>
+  Mean: 3.85<br>
+  Variance: 2.12<br>
+  Median: 3.20<br>
+  Standard Deviation: 1.46<br>
+
+All Plants (Leaf Width):<br>
+  Mean: 4.33<br>
+  Variance: 2.41<br>
+  Median: 3.80<br>
+  Standard Deviation: 1.55<br>
+
+Statistics for Leaf Length:<br>
+Zamioculcas zamiifolia:<br>
+  Mean: 7.35<br>
+  Variance: 0.56<br>
+  Median: 7.50<br>
+  Standard Deviation: 0.75<br>
+Snake Plant:<br>
+  Mean: 19.39<br>
+  Variance: 16.25<br>
+  Median: 18.25<br>
+  Standard Deviation: 4.03<br>
+Bunny Ears Cactus:<br>
+  Mean: 7.21<br>
+  Variance: 7.57<br>
+  Median: 6.80<br>
+  Standard Deviation: 2.75<br>
+
+All Plants (Leaf Length):<br>
+  Mean: 11.31<br>
+  Variance: 41.01<br>
+  Median: 8.20<br>
+  Standard Deviation: 6.40<br>
 
 
 
