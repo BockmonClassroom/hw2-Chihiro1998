@@ -135,6 +135,13 @@ The points are distributed in the upper right, representing larger leaves. The s
 - **Bunny Ears Cactus**<br>
 The points are scattered in the middle of the plot, between Zamioculcas zamiifolia and Snake Plant. While some points overlap with Zamioculcas, there are also wider and longer leaves. This species has more variability than Zamioculcas but less than Snake Plant.  
 
+#### My Conclusion
+- **Zamioculcas zamiifolia**:  <br>
+  This species has the smallest and most consistent leaves, with very low variance and standard deviation in both width and length.  
+- **Snake Plant**:  <br>
+  Snake Plant has the largest leaves, with much higher variance and standard deviation. Its size makes it the most distinct among the three species.  
+- **Bunny Ears Cactus**:  <br>
+  This species has intermediate leaf sizes, with noticeable variability in both width and length. Some points overlap with Zamioculcas, but it also has larger leaves, making it distinguishable.  
 
 **statistics:**
 <blockquote>
