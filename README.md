@@ -4,8 +4,8 @@ DS5110
 Homework 2 - Data Collection  
 Due 1/24/2025
 
-Author：Yuchen(Oliva) Kuang<br>
-Detail: Question answer for DS5110 HW2
+**Author**：Yuchen(Oliva) Kuang<br>
+**Detail**: Question answer for DS5110 HW2<br>
 
 ## Date Collections
 ### 1.Explain your data collection process
@@ -58,7 +58,18 @@ During the data collection process, I encountered the following issues:<br>
 ### 1. Graph histograms of your data with appropriate labels. 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/user-attachments/assets/187a16b9-522f-4dd6-9880-753f8e9a9eea" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3a7119d4-9440-43a9-83f2-4a0773968f86" width="800"/>
 </div>
 <br>
+
+### 2. Graph boxplots of your data with appropriate labels. 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/1f8c193c-004d-4c2c-ac77-048ff36f9e17" width="800"/>
+</div>
+<br>
+
+
+
+
 
 
