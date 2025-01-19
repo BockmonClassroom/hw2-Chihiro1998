@@ -227,6 +227,11 @@ The box plot clearly shows the concentration trend and range of leaf data. The b
 - Scatter Plot
 The scatter plot shows the relationship between leaf width and leaf length, and distinguishes different plants. The points of Snake Plant are distributed in the upper right corner, which is obviously different from other plants, while the data of Zamioculcas and Bunny Ears overlap partially, but they can still be separated as a whole.<br>
 
+**Differences between plants:** <br>
+- Snake Plant: leaves are wide and long, with the largest range of variation, the most prominent characteristics, and are easy to distinguish.<br>
+- Zamioculcas zamiifolia: leaves are short and narrow, concentrated in the data set, and the most stable plant.<br>
+- Bunny Ears Cactus: leaves are medium in size, with a moderate distribution range, some large leaves, but the overall characteristics are significantly different from Snake Plant and Zamioculcas.<br>
+
 
 
 
