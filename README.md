@@ -91,7 +91,7 @@ All: The histogram shows a multimodal distribution, reflecting the distinct char
 #### 4.2 Boxplots
 Box plots summarize the distribution of leaf width and leaf length for all plants and each species, highlighting the central tendency, spread, and outliers.<br>
 **Leaf Width:** <br>
-Zamioculcas zamiifolia: The box is narrow, indicating concentrated data. The median is near the center, aligning with the mean 3.10. The whiskers (range) are short, confirming the small variance 0.23 and standard deviation 0.48.<br>
+Zamioculcas zamiifolia: The box is narrow, indicating concentrated data. The median is near the center, aligning with the mean 3.10. The range are short, confirming the small variance 0.23 and standard deviation 0.48.<br>
 Snake Plant: The boxplot shows a tight distribution around 6 cm. The median is slightly above the mean, consistent with the data's slight right skew.<br>
 Bunny Ears Cactus: The box is wider, with a longer whisker on the right side, reflecting the higher variance 2.12 and a few outliers. The median 3.20 cm is smaller than the mean 3.85 cm, indicating right skewness.<br>
 All Plants: The overall boxplot shows a large spread, with multiple modes corresponding to each plant's characteristics.<br>
